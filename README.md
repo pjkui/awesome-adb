@@ -2407,3 +2407,5 @@ Otherwise check for a confirmation dialog on your device.
 * [像高手一样使用ADB命令行（2）](http://cabins.github.io/2016/03/25/UseAdbLikeAPro-2/)
 
 [1]: #ip-地址
+获得屏幕内容
+adb shell uiautomator dump
